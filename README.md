@@ -12,9 +12,3 @@ Features:
  - Reverse-Charging Devices from its own battery
  - OLED Screen to display animations / A GUI :D
  - 3A Fast Charging
-
-Files in the REPO:
- - 3D Cad Files
- - The firmware (built on KMK) for both the keyboard and the dongle
- - The main board schematic & PCB
- - The plate (to be made out of FR4)
