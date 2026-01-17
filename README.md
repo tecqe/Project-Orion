@@ -1,6 +1,8 @@
 # Project-Orion
 An Overengineered Keyboard
 
+<img width="1559" height="567" alt="image" src="https://github.com/user-attachments/assets/21cf839f-5e33-4159-bafd-45fe3830e057" />
+
 This is the repo for a keyboard I designed with Hack Club!
 
 Features:
