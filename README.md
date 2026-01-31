@@ -17,7 +17,7 @@ This is the repo for a keyboard I designed with Hack Club!
 ## Why I made this:
  - I like engineering and enjoy the challenge of learning how to do something like this from scratch.
  - I like mechanical keyboards, and making my own custom keyboard would be sick.
- - Most keyboards feel like they're trending towards uniformity, and I don't like that.
+ - Most keyboards feel like they're trending towards uniformity, and I don't like that. I wanted to make something that stood out, with a style that both engineers and non-engineers could appreciate. 
 
 
 ## BOM (Not including PCBs/tax):
